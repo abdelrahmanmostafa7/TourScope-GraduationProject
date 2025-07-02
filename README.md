@@ -37,3 +37,12 @@ TourScope is a full-stack MERN (MongoDB, Express, React, Node.js) application de
 **Booking System**: Real-time room availability, booking confirmations, and payment integration (Stripe, PayPal).
 **Notifications**: Email and push notifications for bookings, recommendations, and updates.
 **Reviews and Ratings**: User reviews and admin-moderated ratings for hotels.
+
+<img src="./public/img1.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./public/img2.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./public/img3.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./public/img4.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./public/img5.png" alt="Lighthouse Score: 100%" width="600"/>
+
+
+
