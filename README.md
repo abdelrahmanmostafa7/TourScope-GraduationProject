@@ -38,11 +38,11 @@ TourScope is a full-stack MERN (MongoDB, Express, React, Node.js) application de
 **Notifications**: Email and push notifications for bookings, recommendations, and updates.
 **Reviews and Ratings**: User reviews and admin-moderated ratings for hotels.
 
-<img src="./public/img1.png" alt="Lighthouse Score: 100%" width="600"/>
-<img src="./public/img2.png" alt="Lighthouse Score: 100%" width="600"/>
-<img src="./public/img3.png" alt="Lighthouse Score: 100%" width="600"/>
-<img src="./public/img4.png" alt="Lighthouse Score: 100%" width="600"/>
-<img src="./public/img5.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./src/images/img1.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./src/images/img2.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./src/images/img3.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./src/images/img4.png" alt="Lighthouse Score: 100%" width="600"/>
+<img src="./src/images/img5.png" alt="Lighthouse Score: 100%" width="600"/>
 
 
 
